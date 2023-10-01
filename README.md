@@ -1,5 +1,6 @@
-# Nuxt layers list
+# Nuxt Layers List
 
+Go to website at: https://nuxt-layers-list.netlify.app/
 Created by the template of [Docus](https://docus.dev).
 
 ## Setup
